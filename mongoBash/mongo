@@ -1,2 +1,0 @@
-#! /usr/bin/bash
-mongod -f /Users/haodawang/Documents/mongodb/data/config.conf
